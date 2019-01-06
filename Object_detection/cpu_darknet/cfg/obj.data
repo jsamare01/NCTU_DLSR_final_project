@@ -1,0 +1,9 @@
+classes= 8
+
+train  = /tmp/work/Yolo/darknet/clothes/clothes_test/cfg/train.txt
+
+valid  = /tmp/work/Yolo/darknet/clothes/clothes_test/cfg/test.txt
+
+names = /tmp/work/Yolo/darknet/clothes/clothes_test/cfg/obj.names
+
+backup = /tmp/work/Yolo/darknet/clothes/clothes_test/cfg/weights
